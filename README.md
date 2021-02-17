@@ -4,14 +4,14 @@
 # I'm Hemant Chauhan
 ---
 ## I am currently pursuing BTECH-IT from VIT,Vellore
-
+<pre>
 - 🔭 I’m currently working on flask based web applications.
 - 🌱 I’m currently learning data analysis and machine learning.
 - 👯 I’m looking to collaborate on web and ml projects.
 - 🥅 2020 Goals: Improve problem solving skills and data structure concepts.
 - 📫 How to reach me: LinkedIn :
 - ⚡ Ask me about: Flask, data analysis or any tech related stuff.
-
+</pre>
 --- 
 
 
