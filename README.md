@@ -5,22 +5,23 @@
 ---
 ## I am currently pursuing BTECH-IT from VIT,Vellore
 <pre>
-- 🔭 I’m currently working on flask based web applications.
-- 🌱 I’m currently learning data analysis and machine learning.
+- 🔭 I’m currently working on c sharp.
+- 🌱 I’m currently learning app development and .NET.
 - 👯 I’m looking to collaborate on web and ml projects.
-- 🥅 2020 Goals: Improve problem solving skills and data structure concepts.
+- 🥅 2021 Goals: Learn desktop app development.
 - 📫 How to reach me: LinkedIn :
-- ⚡ Ask me about: Flask, data analysis or any tech related stuff.
+- ⚡ Ask me about: Data Structures and algorithms, Interview prep, Machine Learning, App dev.
 </pre>
 --- 
 
 
-### Connect with me:
+### My social profiles:
 
 [<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />][hackerrank]
+[<img align="left"  width="22px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" />][gfg]
 [<img align="left"  width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
-[<img align="left"  width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />][instagram]<br>
+[<img align="left"  width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />][instagram]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png" />][hackerrank]<br>
 
 ---
 
@@ -45,6 +46,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Hemant1704&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+[gfg]: https://auth.geeksforgeeks.org/user/hemantchauhan2018/practice/
 [hackerrank]: https://www.hackerrank.com/hemant_chauhan21
 [github]: https://github.com/Hemant1704/Hemant1704
 [youtube]: https://youtube.com/codeSTACKr
